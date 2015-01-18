@@ -1,0 +1,14 @@
+
+Rapport de bugs
+
+1 - Dans le menu: Nouvelle partie - Retour - Nouvelle Partie - JOUER ----> Erreur
+	CORRIGE (Avec un TRY)
+
+2 - Croupier ramasse l'assurance et la mise quand le croupier a fait Blackjack (alors que ne devrait rien gagner mais pas perdre)
+	
+
+3 - Pas le temps de voir les resultats a la fin de la partie (fenetre se ferme trop vite)
+	CORRIGE
+
+4 - Les points affichés lors du split sont faux
+	CORRIGE

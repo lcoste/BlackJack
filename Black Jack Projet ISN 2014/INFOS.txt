@@ -1,0 +1,16 @@
+
+	     		 Projet I.S.N 2014
+
+			Jeu de BlackJack
+			         18/04
+
+
+	PARIS Cédric - COSTE Louis - SANTALLIER Clément
+
+
+
+- Pour lancer le jeu double cliquer sur le racourcis "Black Jack GAME" qui tend vers "Menu du Jeu.pyw".
+
+- Toute modification de nom dans le dossier Ressources entrainera un disfonctionnement.
+
+- Inscrire dans "Rapport Bugs" tout bug constaté pendant le jeu.
